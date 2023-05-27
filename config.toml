@@ -1,4 +1,4 @@
-baseURL = 'https://rafael-c-c.github.io/rafafinal/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
@@ -23,7 +23,7 @@ theme = 'terminal'
 
     [languages.en.params.logo]
       logoText = "Terminal"
-      logoHomeLink = "/"
+      logoHomeLink = "https://rafael-c-c.github.io/rafafinal/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
